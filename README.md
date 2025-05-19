@@ -62,8 +62,8 @@ Summary for chat.txt:
 Summary:
 - The conversation had 4 exchanges.
 - The user sent 2 messages; the AI sent 2 messages.
-- The conversation focused on Ai, Data, Field, Learning, and Machine.
-- Most common keywords: ai, data, field, learning, machine
+- The conversation focused on Ai, Allow, Explain, Learning, and Machine.
+- Most common keywords: ai, allow, explain, learning, machine
 ```
 
 ## Screenshot
