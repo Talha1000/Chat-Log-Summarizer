@@ -77,9 +77,3 @@ Summary:
 - **TF-IDF** based keyword extraction using `scikit-learn`
 - Batch processing of multiple `.txt` files in a folder
 - Clean and natural one-line topic summary
-
----
-
-## Submission
-
-GitHub Repository: [https://github.com/Talha1000/Talha1000-AI-Chat-Log-Summarizer-.git](https://github.com/your-username/chat-log-summarizer)
